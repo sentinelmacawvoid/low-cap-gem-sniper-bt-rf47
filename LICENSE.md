@@ -1,4 +1,4 @@
-# 
+# ultimate sandwich attack bot executor is the best sandwich attack bot executor with pump-detection and snipe-list-management. Safe, reliable, and optimized for MEV, sniper, and
 
 
 
